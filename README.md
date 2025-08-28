@@ -101,7 +101,7 @@ Data reported by county behavioral health departments.
     </tr>
     <tr>
       <td>graduations</td>
-      <td>Number of graduations from CARE agreements or plans. After one year, the client can either complete the program and graduate, or can extend for up to one more year. Most counties have not implemented CARE Court for at least a year (see `month-started-by-county.csv`), so it is too soon for graduations.</td>
+      <td>Number of graduations from CARE agreements or plans. After one year, the client can either complete the program and graduate, or can extend for up to one more year. Most counties have not implemented CARE Court for at least a year (see `date-started-by-county.csv`), so it is too soon for graduations.</td>
     </tr>
     <tr>
       <td>data_as_of</td>
@@ -132,7 +132,7 @@ For each county, the date it launched its CARE Court, according to [the state](h
     </tr>
     <tr>
       <td>date_started</td>
-      <td>YYYY-MM-DD month the county launched its CARE Court</td>
+      <td>YYYY-MM-DD date the county launched its CARE Court</td>
     </tr>
   </tbody>
 </table>
