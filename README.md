@@ -48,7 +48,7 @@ Data reported by the Judicial Council of California and individual county superi
       <td>Number of petitions that turned into voluntary CARE treatment agreements</td>
     </tr>
     <tr>
-      <td>care_plans/td>
+      <td>care_plans</td>
       <td>Number of petitions that turned into court-ordered CARE plans</td>
     </tr>
     <tr>
@@ -96,7 +96,7 @@ Data reported by county behavioral health departments.
       <td>Number of petitions that turned into voluntary CARE treatment agreements</td>
     </tr>
     <tr>
-      <td>care_plans/td>
+      <td>care_plans</td>
       <td>Number of petitions that turned into court-ordered CARE plans</td>
     </tr>
     <tr>
