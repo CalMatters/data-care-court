@@ -1,0 +1,53 @@
+county,petitions_filed,petitions_percapita,petitions_dismissed,care_agreements,care_plans,graduations,data_as_of,notes
+Judicial Council of California,2213,7.2,965,449,11,,2025-06-30,dismissals include graduations
+Alameda,125,9.5,16,38,0,0,2025-08-11,
+Alpine,0,0.0,0,0,0,0,2025-08-13,
+Amador,11,32.9,3,,,,2025-08-01,
+Colusa,1,6.1,0,0,0,0,2025-07-30,
+Contra Costa,60,6.7,18,6,,0,2025-08-11,
+El Dorado,3,2.0,1,1,0,0,2025-08-15,
+Fresno,21,2.9,9,2,0,0,2025-07-30,
+Glenn,8,37.8,3,,,,2025-07-30,
+Imperial,12,9.0,*,*,*,,2025-08-13,court doesn't track graduations
+Kern,21,3.2,11,4,0,,2025-08-11,
+Kings,*,,*,*,*,,2025-08-14,court doesn't track graduations
+Lake,5,9.7,2,0,0,0,2025-08-01,
+Lassen,0,0.0,0,0,0,0,2025-07-31,
+Los Angeles,511,6.5,270,106,6,0,2025-06-30,2 people extended for another year
+Madera,3,2.6,2,1,0,0,2025-08-13,
+Marin,26,12.6,5,9,0,0,2025-08-06,
+Mariposa,0,0.0,,,,,,
+Mendocino,0,0.0,0,0,0,0,2025-07-29,
+Merced,16,7.7,5,9,0,,2025-08-11,
+Modoc,2,29.9,2,1,0,0,2025-08-14,"the 1 agreement was dismissed shortly after beginning, and it is included in dismissals"
+Mono,1,9.6,0,0,0,0,2025-07-31,
+Monterey,11,3.4,5,,,,2025-07-31,
+Napa,13,11.8,1,0,2,,2025-08-01,
+Nevada,4,4.8,*,*,*,*,2025-08-25,
+Placer,13,4.0,6,3,0,0,2025-08-07,
+Plumas,0,0.0,0,0,0,0,2025-07-31,
+Riverside,198,10.6,78,66,0,7,2025-07-31,
+Sacramento,70,5.8,12,8,,,2025-06-30,
+San Benito,0,0.0,,,,,2025-08-05,
+San Bernardino,34,2.1,*,*,0,0,2025-08-25,
+San Diego,384,14.9,224,134,0,,2025-06-30,court said it doesn't track graduations
+San Francisco,75,10.5,49,14,*,*,2025-07-31,
+San Joaquin,45,7.7,*,*,*,0,2025-08-25,
+San Luis Obispo,17,7.4,10,3,0,0,2025-08-07,
+San Mateo,65,10.9,27,23,1,0,2025-08-22,
+Santa Barbara,32,9.4,7,8,0,0,2025-07-31,
+Santa Clara,29,1.9,11,0,,0,2025-07-31,
+Santa Cruz,17,7.9,*,*,,,2025-08-13,court said it doesn't have information on plans and graudations
+Shasta,*,,*,*,*,,2025-08-12,court said it doesn't track graduations
+Sierra,0,0.0,0,0,0,0,2025-08-13,
+Siskiyou,*,,,,,,2025-08-07,
+Solano,15,4.3,*,*,,,2025-08-08,
+Sonoma,24,6.2,11,*,0,,2025-07-31,court said it doesn't track graduations
+Stanislaus,92,22.8,47,44,,,2025-07-11,
+Sutter,9,12.0,,,,,2025-08-13,
+Tehama,*,,*,*,*,*,2025-08-13,
+Trinity,0,0.0,0,0,0,0,2025-08-13,
+Tulare,15,4.4,3,4,0,0,2025-08-01,
+Tuolumne,21,48.2,15,*,*,,2025-08-19,court said it doesn't track graduations
+Yolo,13,7.3,9,1,0,0,2025-08-01,
+Yuba,3,5.0,1,1,0,0,2025-07-31,
