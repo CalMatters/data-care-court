@@ -1,5 +1,5 @@
 county,petitions_filed,petitions_percapita,petitions_dismissed,care_agreements,care_plans,graduations,data_as_of,notes
-Judicial Council of California,2213,7.2,965,449,11,,2025-06-30,dismissals include graduations
+Judicial Council of California,2421,,1090,514,14,,2025-07-31,dismissal can occur at almost any point in the process for a variety of different reasons and all CARE Act petitions are eventually dismissed (graduations are included as dismissals in this data)
 Alameda,125,9.5,16,38,0,0,2025-08-11,
 Alpine,0,0.0,0,0,0,0,2025-08-13,
 Amador,11,32.9,3,,,,2025-08-01,
@@ -49,5 +49,6 @@ Tehama,*,,*,*,*,*,2025-08-13,
 Trinity,0,0.0,0,0,0,0,2025-08-13,
 Tulare,15,4.4,3,4,0,0,2025-08-01,
 Tuolumne,21,48.2,15,*,*,,2025-08-19,court said it doesn't track graduations
+Ventura,52,8.1,1,22,0,0,2025-08-28,
 Yolo,13,7.3,9,1,0,0,2025-08-01,
 Yuba,3,5.0,1,1,0,0,2025-07-31,

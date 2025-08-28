@@ -169,11 +169,6 @@ Five counties do not appear in the data files because they did not provide data 
       <td>Requested Jul 29 and Aug 13</td>
       <td>Did not request</td>
     </tr>
-    <tr>
-      <td>Ventura</td>
-      <td>Requested Jul 31</td>
-      <td>Requested Aug 1</td>
-    </tr>
   </tbody>
 </table>
 
