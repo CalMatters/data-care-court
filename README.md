@@ -1,6 +1,6 @@
 # CARE Court data by county
 
-Last updated: August 28, 2025
+Last updated: August 29, 2025
 
 This dataset is based on public record requests by reporters [Marisa Kendall](https://calmatters.org/author/marisa-kendall/) and [Jocelyn Wiener](https://calmatters.org/author/jocelyn-wiener/) to California county courts and behavioral health departments about CARE Court usage. The state established the CARE Court program in 2023 to allow judges to order treatment plans for people in severe psychosis who can’t take care of themselves. All counties implemented the program by Dec 2024.
 
@@ -8,7 +8,7 @@ While some [initial](https://www.dhcs.ca.gov/Documents/CARE-Act-Annual-Report-20
 
 ## Methodology
 
-CARE Court petitions are filed to each county court, which may dismiss them or send them to the county's behavioral health department. County behavioral health does the outreach and reports outcomes back to the court. CalMatters requested the following data from every county court, receiving data from 51 of 58, and most county behavioral health departments. If both replied, some numbers for the same county may not match up depending on communication between the agencies and the date of each response. In some cases, only one agency had a responsive record for a certain field. In the story, CalMatters deferred to court numbers if the numbers didn’t match, since behavioral health may not see the full scope of petitions.
+CARE Court petitions are filed to each county court, which may dismiss them or send them to the county's behavioral health department. County behavioral health does the outreach and reports outcomes back to the court. CalMatters requested the following data from every county court, receiving data from 53 of 58, and most county behavioral health departments. If both replied, some numbers for the same county may not match up depending on communication between the agencies and the date of each response. In some cases, only one agency had a responsive record for a certain field. In the story, CalMatters deferred to court numbers if the numbers didn’t match, since behavioral health may not see the full scope of petitions.
 
 ## Data Dictionary
 
@@ -138,7 +138,7 @@ For each county, the date it launched its CARE Court, according to [the state](h
 </table>
 
 ### Waiting for responses
-Five counties do not appear in the data files because they did not provide data by publication. CalMatters did not request data from behavioral health for some counties with small populations. All dates are 2025.
+Four counties do not appear in the data files because they did not provide data by publication. CalMatters did not request data from behavioral health for some counties with small populations. All dates are 2025.
 
 <table>
   <thead>
