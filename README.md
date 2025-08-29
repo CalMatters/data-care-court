@@ -176,7 +176,7 @@ Four counties do not appear in the data files because they did not provide data 
 CalMatters also requested data on petitioners and housing status of clients petitioned. This dataset will be updated when the data is ready.
 
 ## Examples of Use
-This repo contains data for our story "TKTK."
+This repo contains data for our story: [New mental health courts haven’t helped as many people as Newsom promised. Here’s why](https://calmatters.org/health/mental-health/2025/09/care-court-2025-data/).
 
 ## Data Use
 
