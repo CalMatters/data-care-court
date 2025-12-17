@@ -1,0 +1,40 @@
+county,petitions,petitions_homeless,data_as_of,notes
+Glenn,8,0,2025-08-11,
+Orange,206,51,2025-11-25,People who are leaving custody or hospitals and who are being released back to a stable house would not be counted as unhoused/homeless.
+Riverside,232,52,2025-12-16,
+San Diego,445,110,2025-11-21,"The housing status at time the petition is filed does NOT include those who were incarcerated, hospitalized or living in another institutional setting but would have otherwise been homeless."
+Stanislaus,102,61,2025-10-25,"we define homelessness as anyone staying in a place not meant for habitation, anyone staying in an emergency shelter (including hotels/ motels paid for with emergency voucher), or staying in a safe haven."
+Tuolumne,24,18,2025-11-24,
+Los Angeles,629,149,2025-10-16,"Internally, the Los Angeles County Department of Mental Health (LACDMH) CARE Court program categorizes the housing status of individuals who have been petitioned in three general categories: Housed, Unhoused, and Justice System. We do not automatically assume that any CARE Court participant is unhoused. Each CARE Court participant receives a housing assessment to acquire or maintain appropriate and supportive housing. For example, individuals who are in custody and involved in the justice system would be categorized as justice-involved for prolonged stays in custody.  In addition, those who are in the state hospital are also noted as housed due to the nature of that setting."
+San Mateo,81,6,2025-10-21,
+Kern,36,33,2025-11-20,
+San Bernardino,41,13,2025-10-16,"Based on our understanding of reporting, if an individual is hospitalized/in custody at the time of the petition, we are to count them as unhoused because their address is listed as the detention center/institution address."
+Alameda,124,41,2025-08-06,
+Sacramento,114,32,2025-11-29,"Housing statuses (when applicable) are aligned with corresponding HUD definitions 3 .Individuals who were incarcerated, hospitalized, or living in another institutional setting fall
+under the “Housed/Imminent Risk for Homelessness” category for the purposes of this report.
+Therefore, these individuals are not considered homeless."
+Fresno,45,20,2025-10-31,"1 respondent had two petitions filed
+CARE Act participants are deemed homeless if they do not have a safe place to
+reside.
+a. Does that include people who were incarcerated, hospitalized or living in
+another institutional setting when the petition was filed?
+Yes, only if 'is exiting an institution where the individual has resided for 90
+days or less and who resided in an emergency shelter or place not meant
+for human habitation immediately before entering that institution.'"
+Ventura,67,44,2025-11-19,
+San Joaquin,58,8,2025-11-21,"Homeless: Place not meant for habitation, Emergency shelter including hotel or motel paid for with emergency shelter voucher, safe haven"
+Sonoma,39,23,2025-12-04,"1 individual had 2 petitions
+We do not automatically classify CARE Court participants as homeless solely
+because they are incarcerated, hospitalized, or living in an institutional setting
+when the petition is filed.
+• Housing status is based on the individual’s residential situation prior to entering
+any institutional setting.
+ o If the person was homeless before entering jail, a hospital, or another facility,
+we classify them as homeless at the time of the petition.
+ o If the person was housed prior to institutionalization, we record them as
+housed (“residence”) at the time of the petition."
+Tulare,25,16,2025-11-24,"Homeless is defined as having no shelter or stable housing. Individuals in these settings are counted as homeless when they are already unhoused before entering, or when the institution lists their address as “none,” “unknown,” or “no fixed residence.” They will be discharged to shelter placement, street homelessness, or temporary placement. They refuse or are unable to return to their previous residence. Homeless classification applies only when the facility is the participant’s sole address, and no alternative stable housing exists."
+Solano,18,6,2025-11-04,
+Monterey,21,16,2025-11-26,"Homeless is classified as living in one’s car, couch surfing, living in a tent, intermittent motel stays, homeless shelters. This includes participants who are currently in-custody, at DSH or a psychiatric mental health unit who upon discharge does not have a residence."
+Merced,23,12,2025-08-08,
+Santa Cruz,24,18,2025-11-18,Santa Cruz County considers an individual 'homeless' if they do not have an address outside of the institution.

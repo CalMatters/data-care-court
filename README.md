@@ -1,6 +1,6 @@
 # CARE Court data by county
 
-Last updated: October 29, 2025
+
 
 This dataset is based on public record requests by reporters [Marisa Kendall](https://calmatters.org/author/marisa-kendall/) and [Jocelyn Wiener](https://calmatters.org/author/jocelyn-wiener/) to California county courts and behavioral health departments about CARE Court usage. The state established the CARE Court program in 2023 to allow judges to order treatment plans for people in severe psychosis who can’t take care of themselves. All counties were suppoesd to implement the program by Dec 2024.
 
@@ -15,6 +15,8 @@ CARE Court petitions are filed to each county court, which may dismiss them or s
 If a field is blank, the agency did not specify. If a field is 0, the agency specified 0. Some counties suppressed some or all numbers if they were below 11. Suppressed fields are denoted with *.
 
 ### `county-data-from-courts.csv`
+Last updated: October 29, 2025 
+
 Data reported by the Judicial Council of California and individual county superior courts.
 
 <table>
@@ -67,6 +69,8 @@ Data reported by the Judicial Council of California and individual county superi
 </table>
 
 ### `county-data-from-behavioral-health.csv`
+Last updated: October 29, 2025
+
 Data reported by county behavioral health departments.
 
 <table>
@@ -109,12 +113,52 @@ Data reported by county behavioral health departments.
     </tr>
     <tr>
       <td>notes</td>
-      <td>Any clarifications the court sent with the data</td>
+      <td>Any clarifications the county sent with the data</td>
+    </tr>
+  </tbody>
+</table>
+
+### `county-data-from-behavioral-health-homeless.csv`
+Last updated: December 17, 2025
+
+Data reported by county behavioral health departments on housing status of people petitioned to CARE Court.
+
+<table>
+  <thead>
+    <tr>
+      <th>Field</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>county</td>
+      <td>Name of county
+      </td>
+    </tr>
+    <tr>
+      <td>petitions</td>
+      <td>Number of CARE Court petitions that behavioral health knew about. Since courts can dismiss petitions before they reach behavioral health, this number may be less than total petitions filed. Sometimes multiple petitions may be filed for the same person; this dataset includes total petitions filed.
+      </td>
+    </tr>
+    <tr>
+      <td>petitions_homeless</td>
+      <td>Number of CARE Court petitions for people who were homeless, as defined and confirmed by the county.</td>
+    </tr>
+    <tr>
+      <td>data_as_of</td>
+      <td>YYYY-MM-DD date the data is through, usually when the county replied. The data request was for data since the beginning of the county’s CARE Court implementation.</td>
+    </tr>
+    <tr>
+      <td>notes</td>
+      <td>Any clarifications the county sent with the data on how they define homelessness and whether multiple petitions were for the same person</td>
     </tr>
   </tbody>
 </table>
 
 ### `date-started-by-county.csv`
+Last updated: October 29, 2025
+
 For each county, the date it launched its CARE Court, according to [the state](https://www.dhcs.ca.gov/Documents/CARE-Act-Annual-Report-2025.pdf#page=20). All counties were required to begin by Dec 2024.
 
 <table>
@@ -163,7 +207,7 @@ Four counties do not appear in the data files because they did not provide data 
 </table>
 
 ## Plans for further updates
-CalMatters also requested data on petitioners and housing status of clients petitioned. This dataset will be updated when the data is ready.
+This dataset may be updated as more data is received.
 
 ## Examples of Use
 This repo contains data for our story: [New mental health courts haven’t helped as many people as Newsom promised. Here’s why](https://calmatters.org/health/mental-health/2025/09/care-court-2025-data/).
