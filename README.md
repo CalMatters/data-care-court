@@ -210,7 +210,9 @@ Four counties do not appear in the data files because they did not provide data 
 This dataset may be updated as more data is received.
 
 ## Examples of Use
-This repo contains data for our story: [New mental health courts haven’t helped as many people as Newsom promised. Here’s why](https://calmatters.org/health/mental-health/2025/09/care-court-2025-data/).
+This repo contains data used in the following stories:
+- [New mental health courts haven’t helped as many people as Newsom promised. Here’s why](https://calmatters.org/health/mental-health/2025/09/care-court-2025-data/) (September 2, 2025)
+- [CARE Court was created to help California’s toughest homeless cases. Why that’s been so hard](https://calmatters.org/housing/homelessness/2025/12/care-court-homeless/) (December 18, 2025)
 
 ## Data Use
 
